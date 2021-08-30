@@ -3,7 +3,10 @@ package com.cc.java;
 public class LevelManager {
 
     static boolean isplayerinlevel_0() {
-        return false;
+        return true;
     }
     
+    static boolean isplayerinlevel_1() {
+        return true;
+    }
 }
